@@ -1,6 +1,6 @@
-# Cyberbullying Detection with NLP (Social Media Text)
+# Cyberbullying Classification Using Machine Learning
 
-This repository contains a **machine-learning/NLP pipeline** for detecting cyberbullying in social‑media text.  
+This repository contains a **machine-learning** for detecting cyberbullying in social‑media text.  
 It is centered around a single Jupyter notebook, `cyberbullying-ml-project.ipynb`, which walks through data loading, preprocessing, model training, evaluation, and inference.
 
 > Works for **binary** (bullying vs. not) or **multi‑class** setups (e.g., `age`, `religion`, `gender`, `ethnicity`, `other`, `not_cyberbullying`). Adjust label names in the notebook as needed.
